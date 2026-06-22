@@ -194,7 +194,8 @@ This project demonstrates the ability to:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot]<img width="1470" height="956" alt="dashboard" src="https://github.com/user-attachments/assets/a18b7f4e-2649-4640-b305-f1287f69843b" />
+
 
 ---
 
@@ -207,7 +208,6 @@ The-Ordinary-Skincare-Sales-Dashboard/
 ├── The_Ordinary_Analytics_Dataset.xlsx
 ├── Dashboard_Project.xlsx
 ├── Dashboard_Screenshot.png
-└── Project_Report.pdf
 ```
 
 ---
